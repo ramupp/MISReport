@@ -1,0 +1,6 @@
+ZoneCode=ER
+DatabaseServerIP=10.193.0.145
+DatabaseServerPort=5000
+DatabaseName=UTSDEV
+Username=sa
+Password=
